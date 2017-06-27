@@ -6,7 +6,7 @@ import string
 import time
 from time import sleep
 
-#Create class and functions
+#Create class and methods
 class Car():
     cars = 0
     def __init__(self, brand=None, color=None, fuel=None, price=None):
